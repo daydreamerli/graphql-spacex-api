@@ -1,3 +1,8 @@
+# study project build by using @apollo/client graphql and Reat
+
+# data source is using spacex graphql api
+https://api.spacex.land/graphql/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
