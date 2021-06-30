@@ -1,5 +1,5 @@
 import React from 'react';
-import { ApolloProvider, InMemoryCache, ApolloCnpmlient } from '@apollo/client';
+import { ApolloProvider, InMemoryCache, ApolloClient } from '@apollo/client';
 import Routing from './routes/index';
 
 const client = new ApolloClient({
